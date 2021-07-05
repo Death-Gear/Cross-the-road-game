@@ -1,5 +1,5 @@
 
-import Mains.Game;
+import mainutils.Game;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
