@@ -47,9 +47,6 @@ public class OOP extends Application {
         primaryStage.show();
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static BufferedImage img;
     private static int indx=-1;
 
